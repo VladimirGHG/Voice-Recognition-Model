@@ -33,13 +33,23 @@ This project demonstrates an **end-to-end ML pipeline**: from raw audio recordin
 
 ## Project Structure
 VOICEREC/
+
 │── .venv/ # Virtual environment
+
 │── decisionTree/
+
 │ ├── pycache/
+
 │ ├── modelUse.py # Code for running the model
+
 │ ├── recording.py # Record audio & predict gender
+
 │ ├── voice.csv # Dataset (features + labels)
+
 │ ├── voiceExtractor.py # Feature extraction functions
+
 │ ├── voiceRec.py # Model training and creating script
+
 │── requirements.txt # Python dependencies
+
 │── voice_gender_model.pkl # Model itself
