@@ -34,8 +34,6 @@ This project demonstrates an **end-to-end ML pipeline**: from raw audio recordin
 ## Project Structure
 VOICEREC/
 
-│── .venv/ # Virtual environment
-
 │── decisionTree/
 
 │ ├── pycache/
